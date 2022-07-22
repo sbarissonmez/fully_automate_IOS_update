@@ -42,3 +42,5 @@ When this files are prepared, run the main script and put in the asked infos:
 * Filename (file needs to be located in same file as script)
 * Username
 * Password
+
+.[sample](./sample.png)
