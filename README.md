@@ -43,4 +43,4 @@ When this files are prepared, run the main script and put in the asked infos:
 * Username
 * Password
 
-.[sample](./sample.png)
+![sample](./sample.png)
